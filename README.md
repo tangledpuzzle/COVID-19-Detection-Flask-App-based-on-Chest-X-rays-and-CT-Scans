@@ -23,39 +23,39 @@ The dataset for the project was gathered from two sources:
 # Evaluation and Results
 <h3>Sample output of test images</h3><br>
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_chest.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/sample_ct.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/sample_chest.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/sample_ct.PNG">
 
 <h3>Classification Reports for Chest X-rays:  VGG, InceptionV3, ResNet50, Xception </h3>
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/vgg_chest_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/inception_chest_report.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/vgg_chest_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/inception_chest_report.PNG">
 
-<img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/resnet_chest_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/xception_chest_report.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/resnet_chest_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/xception_chest_report.PNG">
 
 <h3>Confusion Matrix for Chest X-rays:  VGG, InceptionV3, ResNet50, Xception </h3>
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/vgg_chest_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/inception_chest_cm.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/vgg_chest_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/inception_chest_cm.PNG">
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/resnet_chest_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/xception_chest_cm.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/resnet_chest_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/xception_chest_cm.PNG">
 
 <h3>Classification Reports for CT Scans:  VGG, InceptionV3, ResNet50, Xception </h3>
 
 <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/vgg_ct_report.PNG"> <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/inception_ct_report.PNG">
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/resnet_ct_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/xception_ct_report.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/resnet_ct_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/xception_ct_report.PNG">
 
 <h3>Confusion Matrix for CT Scans:  VGG, InceptionV3, ResNet50, Xception </h3>
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/vgg_ct_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/inception_ct_cm.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/vgg_ct_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/inception_ct_cm.PNG">
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/resnet_ct_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/xception_ct_cm.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/resnet_ct_cm.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/xception_ct_cm.PNG">
 
 <h3>Screenshots of Flask App</h3>
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/banner.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/banner.PNG">
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/screenshots/banner2.PNG" width="150%">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/screenshots/banner2.PNG" width="150%">
 
-For more screenshots, please visit the <b>screenshots folder</b> of my repo, or <a href="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/tree/master/screenshots">click here</a>
+For more screenshots, please visit the <b>screenshots folder</b> of my repo, or <a href="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/tree/main/screenshots">click here</a>
 
 # Technical Concepts
 <b>ImageNet</b> is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.<br>
@@ -91,13 +91,4 @@ More information can be found <a href="https://www.mathworks.com/help/deeplearni
   <li>Download my repo and upload the repo folder to your <b>Google Drive</b></li>
   <li>Go to the jupyter notebooks folder in my repo, right click the notebook you want to open and select <b>Open with Google Colab</b>   </li>
   <li>Activate free <b>Google Colab GPU</b> for faster execution. Go to Runtime -> Change Runtime Type -> Hardware Accelerator -> GPU -> Save</li>
-</ul>
-
-# Authors
-## Kaushik Jadhav
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
 </ul>
