@@ -39,7 +39,7 @@ The dataset for the project was gathered from two sources:
 
 <h3>Classification Reports for CT Scans:  VGG, InceptionV3, ResNet50, Xception </h3>
 
-<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/vgg_ct_report.PNG"> <img src="https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/master/flask%20app/assets/images/inception_ct_report.PNG">
+<img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/vgg_ct_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/inception_ct_report.PNG">
 
 <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/resnet_ct_report.PNG"> <img src="https://github.com/tangledpuzzle/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans/blob/main/flask%20app/assets/images/xception_ct_report.PNG">
 
